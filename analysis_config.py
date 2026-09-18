@@ -3,4 +3,5 @@
 SUMMARY_METRICS = [
     "mean",
     "standard_deviation",
+    "min"
 ]
