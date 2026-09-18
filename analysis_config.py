@@ -1,4 +1,7 @@
 """Configuration used in the merge conflict demonstration."""
 
-SUMMARY_METRICS = ["mean", "min"]
-
+SUMMARY_METRICS = [
+    "mean",
+    "standard_deviation",
+    "min"
+]
